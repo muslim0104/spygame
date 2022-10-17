@@ -1,10 +1,13 @@
 import React from 'react';
-
-const SuperButton = () => {
+type ButtonPropsType= {
+    name: string
+    onClick: (...params:any) => void
+}
+const SuperButton = (props:ButtonPropsType) => {
     return (
         <div>
-            
-            </div>
+           <button onClick={props.onClick}> {props.name}</button>
+        </div>
     );
 };
 

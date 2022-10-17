@@ -1,9 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="274ac4de-f608-4d99-9da1-3f5173dbf719" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Timer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Users/Main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Content.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Content.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SuperComponents/SuperButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SuperComponents/SuperButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Users/AllUsers.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Users/User.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/User.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Users/Usr.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/Usr.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/main-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/main-reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/nain.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/nain.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/user-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/user-reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/user.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/user.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/randomizer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/randomizer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2FzxMVbOZsvMHXiLf1JZrkQRfwS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../todo14v2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="E:\search\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\search\src\components\SuperComponents" />
+      <recent name="E:\search\src\components\Users" />
+      <recent name="E:\search\src\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.should be changed">
+    <configuration name="should be changed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/store/user.test.ts" />
+      <test-names>
+        <test-name value="should be changed" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="word should be randomed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/store/nain.test.ts" />
+      <test-names>
+        <test-name value="word should be randomed" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.should be changed" />
+        <item itemvalue="Jest.word should be randomed" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="274ac4de-f608-4d99-9da1-3f5173dbf719" name="Default Changelist" comment="" />
+      <created>1665508665665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665508665665</updated>
+      <workItem from="1665508667072" duration="623000" />
+      <workItem from="1665583031643" duration="7220000" />
+      <workItem from="1665673768264" duration="32000" />
+      <workItem from="1665851917255" duration="1729000" />
+      <workItem from="1665853785817" duration="10144000" />
+      <workItem from="1665909548746" duration="5297000" />
+      <workItem from="1665915275031" duration="8569000" />
+      <workItem from="1666011927427" duration="13002000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#ESLint" timestamp="1665583742484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#ESLint/0.0.1920.1040/1920.9.1920.1040@0.0.1920.1040" timestamp="1665583742484" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1665921765081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.9.1920.1040@0.0.1920.1040" timestamp="1665673799003" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1665921765081" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1666017486952">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.9.1920.1040@0.0.1920.1040" timestamp="1665598992563" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1666017486952" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1666017486952">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.9.1920.1040@0.0.1920.1040" timestamp="1665598992563" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1666017486952" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1666017486951">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.9.1920.1040@0.0.1920.1040" timestamp="1665598992562" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1666017486951" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1666017486952">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.9.1920.1040@0.0.1920.1040" timestamp="1665598992563" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1666017486952" />
   </component>
 </project>
